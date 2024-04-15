@@ -1,0 +1,12 @@
+C:\Users\USer\source\repos\API\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\USer\source\repos\API\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\USer\source\repos\API\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+C:\Users\USer\source\repos\API\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.AssemblyReference.cache
