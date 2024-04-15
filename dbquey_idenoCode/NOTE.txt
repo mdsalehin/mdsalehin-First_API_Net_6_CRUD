@@ -1,0 +1,48 @@
+1)   https://ideone.com/tyyOZ5
+
+2)  https://ideone.com/AJs8bS
+
+
+
+This is the database on that 
+------------***********************************************************************************---------------------------------------
+--create database
+
+create database NewDatabase
+--USE ApiDatabase;
+
+
+--create a table
+
+create table Employee(
+EmployeeId int  identity not null,
+EmployeeName varchar(100) null,
+City varchar(100) null,
+DateofJoining DateTime null,
+Salary money null);
+
+
+--Inserting values into table
+
+select* from Employee
+---------------------
+--create database
+
+create database NewDatabase
+--USE ApiDatabase;
+
+
+--create a table
+
+create table Employee(
+EmployeeId int  identity not null,
+EmployeeName varchar(100) null,
+City varchar(100) null,
+DateofJoining DateTime null,
+Salary money null);
+
+
+--Inserting values into table
+insert into Employee values('Pankaj','Delhi',Getdate()-10,123400)
+------------***********************************************************************************---------------------------------------
+--------------------------
